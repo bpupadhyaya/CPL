@@ -1,4 +1,4 @@
-name := "cpf"
+name := "cpl-research"
 
 version := "1.0"
 
